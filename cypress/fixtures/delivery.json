@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Luana Eliane Carvalho",
+        "cpf": "30332738159",
+        "email": "luanaelianecarvalho__luanaelianecarvalho@utbr.com.br",
+        "whatsapp": "35936585020",
+        "address": {
+            "postalcode": "37702030",
+            "street": "Rua Ômega",
+            "address_number": "274",
+            "address_details": "Bloco 06 ap 02",
+            "district": "Real Parque",
+            "state": "Poços de Caldas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Carlos Isaac Cauê Jesus",
+        "cpf": "@3333555AAAA",
+        "email": "carlosisaaccauejesus-91@otimatransportes.com",
+        "whatsapp": "68982200948",
+        "address": {
+            "postalcode": "69906298",
+            "street": "Beco Cajá",
+            "address_number": "542",
+            "address_details": "Bloco 02 ap 127",
+            "district": "Triângulo Novo",
+            "state": "Rio Branco/AC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+
+    "email_inv": {
+        "name": "Simone Luzia Allana Cavalcanti",
+        "cpf": "24683928418",
+        "email": "lksuhj",
+        "whatsapp": "68994381861",
+        "address": {
+            "postalcode": "69901184",
+            "street": "Beco Mercúrio",
+            "address_number": "317",
+            "address_details": "Bloco 06 ap 02",
+            "district": "Adalberto Aragão",
+            "state": "Rio Branco/AC"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+} 
